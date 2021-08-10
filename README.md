@@ -13,7 +13,7 @@
 
 ### About Me 🚀
 🎓 I’m a Full Stack Developer (MERN) and a junior pursuing my Bachelors in Information Technology. </br>
-👨‍💻  I am passionate about Problem Solving, Machine Learning, Open Source & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Problem Solving, Machine Learning & I enjoy learning new things. </br>
 
 ### My Skills 🙌
 - Programming Languages - C, C++, Python, JavaScript
