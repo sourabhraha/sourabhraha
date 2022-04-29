@@ -17,9 +17,9 @@
 
 ### My Skills 🙌
 - Programming Languages - C, C++, Python, JavaScript
-- Web Technologies & Frameworks - HTML5, CSS,Bootstrap, ReactJS, NodeJS
-- Database - SQLite, SQL, MongoDB
-- Others - Problem Solving, Data Structures and Algorithm, Public Speaking
+- Web Technologies & Frameworks - HTML5, CSS, ReactJS
+- Database - SQL
+- Others - Problem Solving, Data Structures and Algorithm
 
 ### Achievements 🏆
 - 5⭐ in Problem Solving on Hackerrank
