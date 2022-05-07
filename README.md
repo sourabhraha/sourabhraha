@@ -13,7 +13,7 @@
 
 ### About Me 🚀
 🎓 I’m a React Developer and a junior pursuing my Bachelors in Information Technology. </br>
-👨‍💻  I am passionate about Problem Solving, Full Stack Web Developement(MERN) & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Problem Solving, Full Stack Web Development(MERN) & I enjoy learning new things. </br>
 
 ### My Skills 🙌
 - Programming Languages - C, C++, Python, JavaScript
